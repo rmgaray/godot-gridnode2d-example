@@ -1,0 +1,3 @@
+[submodule "addons/GridNode2D"]
+	path = addons/GridNode2D
+	url = https://github.com/rmgaray/godot-gridnode2d
